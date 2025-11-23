@@ -37,7 +37,7 @@ const servicesData = {
         images: [
             'img/img_photo/3_1.jpg',
             'img/img_photo/3_2.jpg',
-            'img/img_photo/3_3.jpg'
+            'img/img_photo/3_8.jpg'
         ],
         description: `
             <p><strong>Сборка медицинских изделий</strong> — ответственный процесс, требующий высокой квалификации персонала и строгого соблюдения технологических норм.</p>
@@ -97,7 +97,7 @@ const servicesData = {
         images: [
             'img/img_photo/7_1.jpg',
             'img/img_photo/7_2.jpg',
-            'img/img_photo/7_3.jpg'
+            'img/img_photo/7_2.jpg'
         ],
         description: `
             <p><strong>Стерилизация</strong> — критически важный процесс обработки медицинских изделий, обеспечивающий их полную микробиологическую безопасность.</p>
