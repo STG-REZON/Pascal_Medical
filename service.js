@@ -5,9 +5,9 @@ const servicesData = {
     manufacturing: {
         title: 'Изготовление пластиковых изделий',
         images: [
-            'img/img_photo/1_1.jpg',
-            'img/img_photo/1_2.jpg',
-            'img/img_photo/1_3.jpg'
+            'img/img_photo/2_1.jpg',
+            'img/img_photo/2_2.jpg',
+            'img/img_photo/2_2.jpg'
         ],
         description: `
             <p><strong>Изготовление пластиковых изделий</strong> — один из ключевых видов нашей деятельности. Мы используем современное оборудование и передовые технологии для производства высококачественной продукции.</p>
@@ -35,9 +35,9 @@ const servicesData = {
     assembly: {
         title: 'Сборка',
         images: [
-            'img/img_photo/1_1.jpg',
-            'img/img_photo/1_2.jpg',
-            'img/img_photo/1_3.jpg'
+            'img/img_photo/3_1.jpg',
+            'img/img_photo/3_2.jpg',
+            'img/img_photo/3_3.jpg'
         ],
         description: `
             <p><strong>Сборка медицинских изделий</strong> — ответственный процесс, требующий высокой квалификации персонала и строгого соблюдения технологических норм.</p>
@@ -65,9 +65,9 @@ const servicesData = {
     packaging: {
         title: 'Упаковка',
         images: [
-            'img/img_photo/1_1.jpg',
-            'img/img_photo/1_2.jpg',
-            'img/img_photo/1_3.jpg'
+            'img/img_photo/6_1.jpg',
+            'img/img_photo/6_2.jpg',
+            'img/img_photo/6_3.jpg'
         ],
         description: `
             <p><strong>Упаковка медицинских изделий</strong> — завершающий этап производства, обеспечивающий сохранность продукции и её стерильность до момента использования.</p>
@@ -95,9 +95,9 @@ const servicesData = {
     sterilization: {
         title: 'Стерилизация',
         images: [
-            'img/img_photo/1_1.jpg',
-            'img/img_photo/1_2.jpg',
-            'img/img_photo/1_3.jpg'
+            'img/img_photo/7_1.jpg',
+            'img/img_photo/7_2.jpg',
+            'img/img_photo/7_3.jpg'
         ],
         description: `
             <p><strong>Стерилизация</strong> — критически важный процесс обработки медицинских изделий, обеспечивающий их полную микробиологическую безопасность.</p>
